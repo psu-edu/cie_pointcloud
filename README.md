@@ -8,16 +8,16 @@ Due to size limitations with GitHub, each PCD file was split into areas of the s
 
 Data has the following format:
 
-\# .PCD v0.7 - Point Cloud Data file format
-VERSION 0.7
-FIELDS x y z rgb normal_x normal_y normal_z curvature
-SIZE 4 4 4 4 4 4 4 4
+  \# .PCD v0.7 - Point Cloud Data file format
+  VERSION 0.7
+  FIELDS x y z rgb normal_x normal_y normal_z curvature
+  SIZE 4 4 4 4 4 4 4 4
 
-TYPE F F F F F F F F
+  TYPE F F F F F F F F
 
-COUNT 1 1 1 1 1 1 1 1
+  COUNT 1 1 1 1 1 1 1 1
 
-WIDTH 250000
+  WIDTH 250000
 
 HEIGHT 1
 
