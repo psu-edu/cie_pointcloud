@@ -22,3 +22,10 @@ DATA ascii\
 2.69368 0.88485998 1.8999 1.6316809e-38 0 -0 1 0\
 2.6828699 0.86001998 1.90011 1.6960736e-38 0 -0 1 0\
 ...
+
+
+## Merging the Data Set
+
+Here is a Google Colab notebook to merge all data points to create CIE: 
+
+https://colab.research.google.com/drive/1uSnbEDQ4gphZQ24yHF4NsbFxbi0Pqujb?usp=sharing 
