@@ -1,6 +1,6 @@
 # ICDS Challenge! 
 ## Object Detection using a Point Cloud of the Center for Immersive Experiences
-# Prize! 
+## Prize! 
 1. The winning team will receive the below endorsement prize package:​
 1. ICDS developed press release on winning team’s submission from HackPSU weekend to be published on ICDS website and other Penn State media channels.​
 1. Social media promotion on ICDS branded channels for winning team’s submission. ​
