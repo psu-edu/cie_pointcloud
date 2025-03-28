@@ -1,9 +1,9 @@
 # Point Cloud for CIE
 
 This repository holds the point cloud for the Center for Immersive Experiences in .pcd form. 
-
+## 360 Images
 To view the Center for Immersive Experiences, please visit the link to view 360 images of the space: https://immersive.psu.edu/spaces/ 
-
+## Data
 Due to size limitations with GitHub, each PCD file was split into areas of the space: the main section of CIE, the entry/secondary area, and the theater. The theater has a complex ceiling, so this was done separately as well.  
 
 Data has the following format:
@@ -22,8 +22,11 @@ DATA ascii\
 2.69368 0.88485998 1.8999 1.6316809e-38 0 -0 1 0\
 2.6828699 0.86001998 1.90011 1.6960736e-38 0 -0 1 0\
 ...
-![image](https://github.com/user-attachments/assets/fd2db81e-cf76-4dfd-8c81-05cbdef99d73)
+## Objects in the Space
+* Chairs, tables, monitors, a projection screen, projectors, TVs, computers, and misc objects.
 
+## QR Code
+![image](https://github.com/user-attachments/assets/3d6e905f-1e80-4aa7-bd2d-988b780a9184)
 
 ## Merging the Data Set
 
