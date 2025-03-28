@@ -1,5 +1,6 @@
 # ICDS Challenge! 
-## Object Detection using a Point Cloud of the Center for Immersive Experiences
+## Goal
+The goal is to provide object detection using a Point Cloud of the Center for Immersive Experiences. 
 ## Prize! 
 The winning team will receive the following endorsement prize package:​
 1. ICDS developed a press release on the winning team’s submission from HackPSU weekend to be published on the ICDS website and other Penn State media channels.​
