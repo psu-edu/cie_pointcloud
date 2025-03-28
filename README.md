@@ -6,15 +6,13 @@ The winning team will receive the following endorsement prize package:​
 1. ICDS developed a press release on the winning team’s submission from HackPSU weekend to be published on the ICDS website and other Penn State media channels.​
 1. Social media promotion on ICDS-branded channels for the winning team’s submission. ​
 1. LinkedIn endorsement referencing the winning team’s submission.​
-1. A presentation invite to a future ICDS Lunch and Learn, where the winning team will present their winning submission to the ICDS leadership team and discuss careers in HPC.
+1. A presentation invite to a future ICDS Lunch and Learn (free lunch!).
 
 This repository holds the point cloud for the Center for Immersive Experiences in .pcd form. 
 ## 360 Images
 To view the Center for Immersive Experiences, please visit the link to view 360 images of the space: https://immersive.psu.edu/spaces/ 
 ## Data
 Due to size limitations with GitHub, each PCD file was split into areas of the space: the main section of CIE, the entry/secondary area, and the theater. The theater has a complex ceiling, so this was done separately as well.  
-
-Data has the following format:
 
 > \# .PCD v0.7 - Point Cloud Data file format\
 VERSION 0.7\
