@@ -22,6 +22,7 @@ DATA ascii\
 2.69368 0.88485998 1.8999 1.6316809e-38 0 -0 1 0\
 2.6828699 0.86001998 1.90011 1.6960736e-38 0 -0 1 0\
 ...
+![image](https://github.com/user-attachments/assets/fd2db81e-cf76-4dfd-8c81-05cbdef99d73)
 
 
 ## Merging the Data Set
